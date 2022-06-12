@@ -1,7 +1,7 @@
 # mongodb
 
-* docker
+* docker-compose
 
     ```
-    $ docker run -it mongo:latest /bin/bash
+    $ docker-compose up -d
     ```
